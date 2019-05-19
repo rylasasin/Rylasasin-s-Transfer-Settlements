@@ -1,0 +1,2 @@
+Institute scrap settlements work like this: They're essentially industrial settlements occupied entirely by robots or gen2 synths, meaning there's no need for residential plots.
+They could theoretically be turned into legit settlements, but you will have to build some walls/domes and change some of the plots over to residential (especially the ones in the Red Rocket Monoliths.)
